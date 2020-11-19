@@ -11,3 +11,6 @@
 
 #### 데이터 스키마
 ![Alt text](/YooSeungA/ad_analysis/img.png "박카스 데이터스키마")
+
+#### 데이터 수집방법
+#### 총 데이터 수집 건수
