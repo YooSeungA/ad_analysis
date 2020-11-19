@@ -11,4 +11,4 @@
 4. 방법: 광고의 스크립트를 브랜드, 연도별로 정리하여 언어 분석 수행
 
 #### 데이터 스키마
-![Alt text](/path/to/박카스 데이터스키마.jpg)
+![Alt text](C:\Users\ysa02\Downloads\박카스 데이터스키마.png)
