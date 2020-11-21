@@ -12,10 +12,10 @@
 #### 데이터 스키마
 <a href='https://ifh.cc/v-TedGxI' target='_blank'><img src='https://ifh.cc/g/TedGxI.jpg' border='0'></a>
 
-#### 데이터 수집방법
+#### 데이터 분석방법
 konlpy 형태소 분석
 
-#### 총 데이터 수집 건수
+#### 총 데이터 수
 박카스(동아제약): 96건    
     비타500(광동제약): 47건    
     활명수(동화약품): 35건
