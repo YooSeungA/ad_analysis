@@ -10,7 +10,7 @@
 4. 방법: 광고의 스크립트를 브랜드, 연도별로 정리하여 언어 분석 수행
 
 #### 데이터 스키마
-(<a href='https://ifh.cc/v-g2A5oz' target='_blank'><img src='https://ifh.cc/g/g2A5oz.jpg' border='0'></a>)
+<a href='https://ifh.cc/v-TedGxI' target='_blank'><img src='https://ifh.cc/g/TedGxI.jpg' border='0'></a>
 
 #### 데이터 수집방법
 konlpy 형태소 분석
