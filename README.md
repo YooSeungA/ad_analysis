@@ -10,7 +10,7 @@
 4. 방법: 광고의 스크립트를 브랜드, 연도별로 정리하여 언어 분석 수행
 
 #### 데이터 스키마
-![alt 박카스 데이터스키마](/img/png파일이름.img "박카스 데이터스키마")
+![비타500 데이터스키마](<a href='https://ifh.cc/v-6wcP9S' target='_blank'><img src='https://ifh.cc/g/6wcP9S.png' border='0'></a>)
 
 #### 데이터 수집방법
 konlpy 형태소 분석
