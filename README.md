@@ -24,6 +24,7 @@ konlpy 형태소 분석
 
 #### 데이터 해석결과
 ## 1. 박카스
+<a href='https://ifh.cc/v-zpcxmD' target='_blank'><img src='https://ifh.cc/g/zpcxmD.jpg' border='0'></a>
 # 1.1 명사
 <a href='https://ifh.cc/v-XPODiZ' target='_blank'><img src='https://ifh.cc/g/XPODiZ.png' border='0'></a>
 1) **'나', '우리', '엄마'**: 일상에서 소비자들이 공감할 수 있는 내용의 광고가 많음
